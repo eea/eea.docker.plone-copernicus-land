@@ -1,5 +1,6 @@
 Deploys
 =======
+9.7-1.2 #84730 Move fileCategories to default tab.
 9.7-1.1 #82756 Make cover generation optional.
 9.7-1.0 #82028 Integration with social networks
 9.5-1.0 #82999.
