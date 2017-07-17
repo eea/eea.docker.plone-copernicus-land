@@ -1,10 +1,11 @@
 Deploys
 =======
-9.7-1.2 #84730 Move fileCategories to default tab.
-9.7-1.1 #82756 Make cover generation optional.
-9.7-1.0 #82028 Integration with social networks
-9.5-1.0 #82999.
-9.3-1.0 #82756.
+11.3-1.2 #84442 Add Land files administration tool.
+ 9.7-1.2 #84730 Move fileCategories to default tab.
+ 9.7-1.1 #82756 Make cover generation optional.
+ 9.7-1.0 #82028 Integration with social networks
+ 9.5-1.0 #82999.
+ 9.3-1.0 #82756.
 2017.02.24 Solved #82530.
 2017.02.09 Solved #80819.
 2017.02.08 Solved #80501.
