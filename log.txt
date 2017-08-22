@@ -1,5 +1,6 @@
 Deploys
 =======
+11.3-1.4 #87226 http -> https
 11.3-1.3 #84442 Add Land files administration tool. (improved)
 11.3-1.2 #84442 Add Land files administration tool.
  9.7-1.2 #84730 Move fileCategories to default tab.
