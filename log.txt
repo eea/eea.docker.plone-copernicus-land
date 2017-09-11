@@ -1,5 +1,6 @@
 Deploys
 =======
+11.3-1.6 #88035 Landfile: Metadata - multiple bounding boxes [no http -> https]
 11.3-1.5 #88035 Landfile: Metadata - multiple bounding boxes
 11.3-1.4 #87226 http -> https
 11.3-1.3 #84442 Add Land files administration tool. (improved)
