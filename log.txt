@@ -1,5 +1,6 @@
 Deploys
 =======
+11.3-2.0-rc.1 #88278 Performance and responsiveness improvements
 11.3-1.6 #88035 Landfile: Metadata - multiple bounding boxes [no http -> https]
 11.3-1.5 #88035 Landfile: Metadata - multiple bounding boxes
 11.3-1.4 #87226 http -> https
