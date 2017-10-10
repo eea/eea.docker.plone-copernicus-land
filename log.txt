@@ -1,5 +1,6 @@
 Deploys
 =======
+11.3-2.0-rc.6 #88377 Updated l.c.content.
 11.3-2.0-rc.5 #88377 Updated l.c.content.
 11.3-2.0-rc.4 #88377 Fixed GA tracking and non-validated. Updated l.c.theme.
 11.3-2.0-rc.3 #88377 Improvements to async.
