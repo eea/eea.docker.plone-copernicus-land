@@ -1,5 +1,6 @@
 Deploys
 =======
+12.7-2.3 #89774 l.c.content version bump
 12.7-2.2 #89774 l.c.content version bump
 12.7-2.1 l.c.theme version bump
 12.7-2.0 Updating to latest KGS. (zc.buildout==2.9.5 version bump)
