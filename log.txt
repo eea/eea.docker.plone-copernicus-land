@@ -1,5 +1,6 @@
 Deploys
 =======
+12.7-2.4 #89915 #90054 #89982 l.c.content version bump
 12.7-2.3 #89774 l.c.content version bump
 12.7-2.2 #89774 l.c.content version bump
 12.7-2.1 l.c.theme version bump
