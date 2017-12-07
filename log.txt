@@ -1,5 +1,6 @@
 Deploys
 =======
+12.7-2.6 #90575 Improve login and reset password pages with info for EIONET members
 12.7-2.5 #90046 l.c.content version bump
 12.7-2.4 #89915 #90054 #89982 l.c.content version bump
 12.7-2.3 #89774 l.c.content version bump
