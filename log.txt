@@ -1,6 +1,6 @@
 Deploys
 =======
-12.7-2.8 WIP - let's check for errors
+12.7-2.8-rc.1 #90561 #90546 #90659 l.c.content and l.c.theme version bump
 12.7-2.7 #90422 #90655 l.c.content version bump
 12.7-2.6 #90575 Improve login and reset password pages with info for EIONET members
 12.7-2.5 #90046 l.c.content version bump
