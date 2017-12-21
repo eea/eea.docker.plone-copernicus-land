@@ -1,6 +1,6 @@
 Deploys
 =======
-12.7-2.8 #90546 #87226 #82751 Updatating to latest KGS. l.c.theme version bump.
+14.0-2.8 #90546 #87226 #82751 Updatating to latest KGS. l.c.theme version bump.
 12.7-2.8-rc.2 #90546 l.c.content version bump
 12.7-2.8-rc.1 #90561 #90546 #90659 l.c.content and l.c.theme version bump
 12.7-2.7 #90422 #90655 l.c.content version bump
