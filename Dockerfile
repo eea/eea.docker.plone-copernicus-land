@@ -1,4 +1,4 @@
-FROM eeacms/kgs:12.7
+FROM eeacms/kgs:14.0
 MAINTAINER "EEA: IDM2 B-Team"
 
 ENV GRAYLOG_FACILITY=copernicus-land-plone
