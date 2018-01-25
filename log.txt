@@ -1,5 +1,6 @@
 Deploys
 =======
+14.0-2.11 #90919 l.c.content version bump
 14.0-2.10 #87458 #90628 l.c.content version bump, sentry support removed edw.logger
 14.0-2.9 #91704 #91528 l.c.theme and l.c.content version bump
 14.0-2.8 #90546 #87226 #82751 Updatating to latest KGS. l.c.theme version bump.
