@@ -1,6 +1,5 @@
 Deploys
 =======
-
 18.2.15-2.14 #82751 Latest KGS with eea.rdfmarshaller 10.6
 14.0-2.13 #90628 l.c.content version bump
 14.0-2.12 #90919 l.c.content version bump
