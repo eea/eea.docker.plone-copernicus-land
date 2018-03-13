@@ -1,5 +1,6 @@
 Deploys
 =======
+18.2.15-2.18 #93616 #90603 l.c.content and l.c.theme version bump
 18.2.15-2.17 #92752 l.c.content version bump
 18.2.15-2.16 #90603 #92039 #92752 #93407 #93474 l.c.content and l.c.theme version bump
 18.2.15-2.15 #92986 l.c.content and l.c.theme version bump
