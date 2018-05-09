@@ -1,5 +1,6 @@
 Deploys
 =======
+18.5.9-2.24 #95349 Add Products.RedirectionTool.
 18.5.9-2.23 #95349 Updating to latest KGS.
 18.2.15-2.22 #95045 #93752 l.c.theme version bump
 18.2.15-2.21 #94690 #93752 l.c.theme version bump
