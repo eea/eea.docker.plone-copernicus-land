@@ -1,5 +1,6 @@
 Deploys
 =======
+18.7.12-2.30 #97042 l.c.content version bump. Updating to latest KGS.
 18.5.9-2.29 #96522 l.c.content and l.c.theme version bump
 18.5.9-2.28 #95088 l.c.content and l.c.theme version bump
 18.5.9-2.26 #95890 #95900 l.c.content version bump
