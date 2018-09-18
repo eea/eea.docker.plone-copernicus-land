@@ -1,7 +1,6 @@
 Deploys
 =======
-
-18.9.14-2.37 #97529 Updating to latest KGS.
+18.8.21-2.37 #97529 Updating KGS.
 18.7.12-2.36 #98066 #98445 l.c.content and l.c.theme version bump
 18.7.12-2.35 #98233 l.c.theme version bump
 18.7.12-2.33 #98233 l.c.content and l.c.theme version bump
