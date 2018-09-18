@@ -1,5 +1,6 @@
 Deploys
 =======
+18.7.12-2.37 #97529 Add eea.meeting.
 18.7.12-2.36 #98066 #98445 l.c.content and l.c.theme version bump
 18.7.12-2.35 #98233 l.c.theme version bump
 18.7.12-2.33 #98233 l.c.content and l.c.theme version bump
