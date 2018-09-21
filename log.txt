@@ -1,5 +1,6 @@
 Deploys
 =======
+18.9.14-2.39-rc1 #98613 Demo: Temporary add eea.socialmedia to fix PicklingError
 18.9.14-2.38 #98613 Get rid of Ploneboard. Updating to latest KGS. l.c.content and l.c.theme version bump
 18.7.12-2.37-rc.6 #98613 l.c.content version bump
 18.7.12-2.37-rc.5 #98613 Demo: Fix PicklingError (zc.relation).
