@@ -1,5 +1,6 @@
 Deploys
 =======
+18.7.12-2.37-rc.7 #98613 Get rid of Ploneboard.
 18.7.12-2.37-rc.6 #98613 l.c.content version bump
 18.7.12-2.37-rc.5 #98613 Demo: Fix PicklingError (zc.relation).
 18.7.12-2.37-rc.4 #98613 Demo: Fix PicklingError (zc.relation). [broken image]
