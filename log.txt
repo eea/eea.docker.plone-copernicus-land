@@ -1,5 +1,6 @@
 Deploys
 =======
+18.9.14-2.44 #99956 #99957 #99958 #99788 l.c.theme and l.c.content version bump, use EEA Search App
 18.9.14-2.43 #97529 #98827 #98853 #99729 #99730 #99824 #99867 #99875 #99876 #99878 #99886 #99955 #99958 l.c.theme and l.c.content version bump
 18.9.14-2.42-rc.5 #98727 l.c.theme version bump
 18.9.14-2.42-rc.4 #97529 #98727 l.c.theme version bump
