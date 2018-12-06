@@ -1,5 +1,6 @@
 Deploys
 =======
+18.12.5-2.45-rc.3 WIP
 18.9.14-2.45-rc.2 #97529 #99958 #99772 #100472 #99788 - eea.meeting 1.1; l.c.theme and l.c.content version bump
 18.9.14-2.45-rc.1 #99944 #99957 - get rid of Google reCAPTCHA, fix eea.meeting, l.c.theme and l.c.content version bump
 18.9.14-2.44 #99956 #99957 #99958 #99788 l.c.theme and l.c.content version bump, use EEA Search App
