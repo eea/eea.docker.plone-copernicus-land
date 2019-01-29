@@ -1,5 +1,6 @@
 Deploys
 =======
+18.12.5-2.48 #102026 #101958 #97529 - l.c.theme and l.c.content version bump
 18.12.5-2.47 #99875 #99876 #99877 #99878 #100472 - l.c.theme and l.c.content version bump
 18.12.5-2.46 #100472 #97529 #99772 #99788 #99944 #99956 #99957 #99958 - No changes. Just an image to be deployed in production.
 18.12.5-2.45-rc.4 #97529 - eea.meeting 1.2.2; l.c.content version bump
