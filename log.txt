@@ -1,6 +1,6 @@
 Deploys
 =======
-19.1.31-2.50 #101742 - WIP Updating to latest KGS. eea.meeting 1.2.3
+19.1.31-2.50 #101742 #97529 #99878 - Updating to latest KGS. eea.meeting 1.2.3; l.c.content version bump
 18.12.5-2.49 #101958 #101742 - l.c.content version bump
 18.12.5-2.48 #102026 #101958 #97529 - l.c.theme and l.c.content version bump
 18.12.5-2.47 #99875 #99876 #99877 #99878 #100472 - l.c.theme and l.c.content version bump
