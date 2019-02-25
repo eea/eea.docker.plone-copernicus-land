@@ -1,5 +1,6 @@
 Deploys
 =======
+19.2.15-2.56 #103043 - eea.meeting 1.2.7; l.c.theme and l.c.content version bump
 19.2.15-2.55 no changes (to force upgrade on demo)
 19.2.15-2.54 #97529 #102958 - eea.meeting 1.2.6; l.c.content version bump
 19.2.15-2.53 #96683 - Updating to latest KGS. eea.meeting 1.2.4; l.c.content version bump
