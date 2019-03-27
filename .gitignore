@@ -2,3 +2,4 @@ ES/
 src/
 docker-compose.yml
 fix_permissions.sh
+stop_apache.sh
