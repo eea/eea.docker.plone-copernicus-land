@@ -1,5 +1,6 @@
 Deploys
 =======
+19.2.15-2.66 #104065 - eea.meeting 1.2.7; l.c.content version bump
 19.2.15-2.65 #104065 #99788 - eea.meeting 1.2.7; l.c.content version bump
 19.2.15-2.64 #104065 #99788 - eea.meeting 1.2.7;
 19.2.15-2.63 #102884 - eea.meeting 1.2.7; l.c.content version bump
