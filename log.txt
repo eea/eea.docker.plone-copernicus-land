@@ -1,5 +1,6 @@
 Deploys
 =======
+19.2.15-2.74 #103818 - eea.meeting 1.2.7; l.c.content version bump; sentry settings
 19.2.15-2.73 #103818 - eea.meeting 1.2.7; l.c.content and l.c.theme version bump
 19.2.15-2.72 #103818 - eea.meeting 1.2.7; l.c.content version bump
 19.2.15-2.71 #104987 #104065 - eea.meeting 1.2.7; l.c.content version bump
