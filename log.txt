@@ -1,5 +1,6 @@
 Deploys
 =======
+19.4.17-2.77 #103818 - eea.meeting 1.2.7; l.c.content version bump;
 19.4.17-2.76 #103818 - eea.meeting 1.2.7; l.c.content and l.c.theme version bump;
 19.4.17-2.75 #103818 - Updating to latest KGS.
 19.2.15-2.74 #103818 - eea.meeting 1.2.7; l.c.content version bump; sentry settings
