@@ -1,5 +1,6 @@
 Deploys
 =======
+19.4.17-2.79 #103818 - eea.meeting 1.2.7; l.c.content version bump;
 19.4.17-2.78 #103818 - fix ENV SERVER_NAME value
 19.4.17-2.77 #103818 - eea.meeting 1.2.7; l.c.content version bump;
 19.4.17-2.76 #103818 - eea.meeting 1.2.7; l.c.content and l.c.theme version bump;
