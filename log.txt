@@ -1,5 +1,6 @@
 Deploys
 =======
+19.5.7-2.87 #106490 #106474 #105524 - eea.meeting 1.2.7; l.c.content and l.c.theme version bump;
 19.5.7-2.86 #105983 - eea.meeting 1.2.7; l.c.theme version bump;
 19.5.7-2.85 #105690 #105524 #105137 - eea.meeting 1.2.7; l.c.content and l.c.theme version bump;
 19.5.7-2.84 #105650 - Updating to latest KGS.
