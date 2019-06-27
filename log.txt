@@ -1,5 +1,6 @@
 Deploys
 =======
+19.6.13-2.93 #106508 - l.c.content version bump;
 19.6.13-2.92 #106508 #106537 #106584 - l.c.theme and l.c.content version bump;
 19.6.13-2.91 #103818 - l.c.theme and l.c.content version bump;
 19.6.13-2.90 #103818 #105524 - Updating to latest KGS; l.c.theme and l.c.content version bump;
