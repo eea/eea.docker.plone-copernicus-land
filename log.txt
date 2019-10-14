@@ -1,6 +1,7 @@
 Deploys
 =======
-19.7.4-2.104 #110147 - l.c.content
+19.7.4-2.105 #105298 - l.c.theme version bump;
+19.7.4-2.104 #110147 - l.c.content version bump;
 19.7.4-2.103 #109799 #109822 - l.c.content and l.c.theme version bump;
 19.7.4-2.102 #109822 - l.c.theme version bump;
 19.7.4-2.101 #109826 - l.c.content version bump;
