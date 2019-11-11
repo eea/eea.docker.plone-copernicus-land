@@ -1,5 +1,6 @@
 Deploys
 =======
+19.11.1-2.111 #110927 - l.c.content version bump;
 19.11.1-2.110 #110772 #105298 - l.c.content and l.c.theme version bump;
 19.11.1-2.109 #110772 - l.c.content version bump;
 19.11.1-2.108 #110772 - eea.meeting 1.2.9; l.c.content and l.c.theme version bump;
