@@ -1,10 +1,10 @@
-FROM eeacms/kgs:19.11.8
+FROM eeacms/kgs:20.1.11
 MAINTAINER "EEA: IDM2 B-Team"
 
 ENV GRAYLOG_FACILITY=copernicus-land-plone
 ENV SENTRY_DSN=
 ENV SENTRY_SITE=
-ENV SENTRY_RELEASE=19.11.8-2.114
+ENV SENTRY_RELEASE=20.1.11-2.115
 
 COPY buildout.cfg /plone/instance/
 RUN buildout
