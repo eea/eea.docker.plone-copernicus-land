@@ -1,5 +1,6 @@
 Deploys
 =======
+20.2.1-2.118 #114020 #110024 #114027 - l.c.content version bump; l.c.theme bump;
 20.2.1-2.117 #113682 #110552 #113311 - l.c.content version bump; Updating to latest KGS
 20.1.11-2.116 #113320 #110552 - l.c.content and l.c.theme version bump;
 20.1.11-2.115 #106509 - l.c.theme version bump; Updating to latest KGS
