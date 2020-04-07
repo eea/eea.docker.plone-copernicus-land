@@ -1,5 +1,6 @@
 Deploys
 =======
+20.3.24-2.125 #115866 - l.c.theme version bump;
 20.3.24-2.124 #115866 - Update plonebuildout profile version.
 20.3.24-2.123 #116247 #115864 - l.c.theme and l.c.content version bump;
 20.3.24-2.122 #116247 - Use plone.restapi
