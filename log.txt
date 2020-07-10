@@ -1,5 +1,6 @@
 Deploys
 =======
+20.6.27-2.128 #119569 - Update to latest KGS;
 20.5.12-2.127 #114022 - eea.meeting 1.3.3; Update to latest KGS; l.c.theme version bump
 20.3.24-2.126 #116803 #116727 #116827 - l.c.theme version bump and l.c.content version bump
 20.3.24-2.125 #115866 - l.c.theme version bump;
