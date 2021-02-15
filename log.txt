@@ -1,6 +1,6 @@
 Deploys
 =======
-21.1.30-2.152 #128477 - Update to latest KGS; Add plone.restapi;
+21.1.30-2.153 #128477 - Update to latest KGS; Add plone.restapi;
 21.1.12-2.151 #126691 - l.c.theme version bump;
 21.1.12-2.150 #126691 - l.c.theme version bump;
 21.1.12-2.149 #126691 - l.c.theme and l.c.content version bump;
