@@ -7,4 +7,4 @@ ENV SENTRY_SITE=
 ENV SENTRY_RELEASE=21.1.30-2.153
 
 COPY buildout.cfg /plone/instance/
-RUN buildout
+RUN buildout -vvv -D
