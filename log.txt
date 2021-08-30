@@ -1,5 +1,6 @@
 Deploys
 =======
+21.8.13-2.157 #135447 #137878 #137865 - Update to latest KGS, l.c.theme and content bump;
 21.1.30-2.156 #126691 - l.c.theme version bump;
 21.1.12-2.155 #126691 - l.c.theme version bump;
 21.1.30-2.154 #128791 - l.c.theme and l.c.content version bump; Fix buildout.
