@@ -1,5 +1,6 @@
 Deploys
 =======
+21.11.24-2.15 #141257 #141153 #141256 - Update to latest KGS, l.c.theme and content bump;
 21.8.13-2.158 #140205 - Fix eea.geotags issue by using compatible version.
 21.8.13-2.157 #135447 #137878 #137865 - Update to latest KGS, l.c.theme and content bump;
 21.1.30-2.156 #126691 - l.c.theme version bump;
